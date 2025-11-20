@@ -1,67 +1,55 @@
-🌟 Himal Subedi
-Software Engineering Student • University of Wisconsin–Green Bay
-Interested in clean code, structured design, and building real-world software.
-👋 About Me
+# ⭐ Himal Subedi
+**Software Engineering Student • University of Wisconsin–Green Bay**  
+Building practical software with clean structure, strong logic, and user-friendly design.
 
-Hi! I'm Himal — a developer who enjoys understanding the why behind every line of code. I like building applications that are simple to use, logically organized, and well-structured under the hood.
+---
 
-My learning style is hands-on: I build things, break them, fix them, and iterate until I truly understand how they work. Whether it's shaping a UI, structuring backend logic, or troubleshooting unexpected behavior, I enjoy every part of the process.
+## 👋 About Me
+Hi! I’m **Himal**, a curious and motivated software engineering student who enjoys learning how systems work behind the scenes. I transform ideas into **practical, user-friendly applications** with clean architecture and reliable performance.  
 
-I’m especially drawn to:
+I’m especially interested in:
+- Designing interfaces where **UI and logic** work together smoothly  
+- Using **object-oriented programming** to build reusable, structured components  
+- Understanding how **data flows** through applications  
+- Debugging and solving problems that require careful thinking  
 
-Writing code that is easy to understand and modify
+To me, programming is like building a system where every part fits perfectly — and learning how to make those pieces fit is what keeps me motivated.
 
-Organizing projects using solid OOP principles
+---
 
-Designing user-friendly desktop interfaces
+## 🛠 Tech Stack
+**Languages:** Java, Python, C, SQL, JavaScript  
+**Frameworks & Libraries:** JavaFX, Tkinter, Swing  
+**Tools:** Git, GitHub, VS Code, PyCharm, Eclipse, Maven  
+**Interests:** Desktop applications, database systems, clean architecture, optimization  
 
-Improving performance through careful debugging
+---
 
-Learning how data flows through applications and systems
+## 📚 Currently Learning
+I’m actively improving my skills in:
+- Writing cleaner and more structured **Java applications**  
+- Understanding **database design, SQL queries, and relational models**  
+- Organizing projects using strong **OOP principles**  
+- Improving **documentation, testing, and debugging**  
+- Building **scalable and easy-to-understand codebases**  
 
-I'm not just interested in finishing a project — I'm interested in building it the right way.
+Each project I work on helps me get better at thinking like a real engineer — from design to implementation.
 
-🛠 Skills & Tools
+---
 
-Languages: Java, Python, C, SQL, JavaScript
-Frameworks / Libraries: JavaFX, Tkinter, Swing
-Developer Tools: Git, GitHub, VS Code, PyCharm, Eclipse, Maven
-Topics I'm exploring: GUI design, data structures, database systems, clean architecture
+## 🧭 My Goals
+I’m aiming to grow into a developer who can:
+- Architect systems that are **clear, modular, and easy to extend**  
+- Work confidently with both **front-end and back-end logic**  
+- Build applications that are **reliable and enjoyable to use**  
+- Approach problems with a **structured engineering mindset**  
 
-📚 What I’m Working On
+I love learning step by step, improving every day, and turning challenges into skills.
 
-Right now I’m focused on strengthening the fundamentals that make someone a reliable engineer:
+---
 
-Writing cleaner, more modular Java code
+## 📫 Contact
+- **Email:** subeh02@uwgb.edu  
+- **LinkedIn:** [linkedin.com/in/himal-subedi](https://www.linkedin.com/in/himal-subedi)  
+- **GitHub:** [github.com/himalSubedi0602](https://github.com/himalSubedi0602)  
 
-Designing better class structures and relationships
-
-Understanding database concepts and SQL more deeply
-
-Improving my debugging process and documentation
-
-Learning how to build maintainable, long-term codebases
-
-Each week I push myself to learn something new — even small improvements add up over time.
-
-🚀 My Approach to Software
-
-I believe good software should be:
-
-Readable — easy for others to understand
-
-Organized — structured with intention
-
-Efficient — performing well without unnecessary complexity
-
-Maintainable — built in a way that future changes are simple
-
-I’m constantly refining my mindset so every new project becomes stronger than the last.
-
-📫 Connect with Me
-
-Email: subeh02@uwgb.edu
-
-LinkedIn: https://www.linkedin.com/in/himal-subedi
-
-GitHub: https://github.com/himalSubedi0602
