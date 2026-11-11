@@ -8,7 +8,7 @@
 
 I'm Himal, a student at the University of Wisconsin–Green Bay, majoring in Software Engineering with a minor in Mathematics (emphasis in Applied Mathematics).
 
-I'm interested in mathematics, financial markets and software engineering, and especially in where they meet.
+I'm interested in mathematics, financial markets and software engineering.
 
 ## Toolkit
 
